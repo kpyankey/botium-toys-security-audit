@@ -79,10 +79,10 @@ The project evaluates Botium Toys’ assets, control measures, and compliance po
 
 ## 📫 Contact
 
-**Author:** ABEL (Cybersecurity Analyst)  
-**Portfolio:** [Your GitHub Profile Link]  
-**LinkedIn:** [Your LinkedIn Profile Link]  
-**Email:** [Your professional email, if you’d like to include it]
+**Author:** Kelvin Prince Yankey (Entry-Level Cybersecurity Analyst)  
+**Portfolio:** (https://github.com/kpyankey) 
+**LinkedIn:** (https://www.linkedin.com/in/kpyankey) 
+**Email:** [kelvinprincey@gmail.com]
 
 ---
 
